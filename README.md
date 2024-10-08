@@ -1,4 +1,4 @@
-# Python API MySQL project
+# Build own API: Python_MySQL project
 
 ### What does this project do
 - it is a recipe API built in Python using data from MySQL and user's input
@@ -11,7 +11,7 @@
   - editor to run the code, eg. [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows),
   - interpreter for the MYSQL language [MySQL Community Server](https://dev.mysql.com/downloads/file/?id=526336),
   - application to see database data. e.g. [MySQL WorkBench](https://downloads.mysql.com/archives/workbench/)
-
+  - in order to work with MySQL database you need to add your ***credentials*** into `config.py` file 
  #### Instructions
 
 - open Pycharm and run `app.py`; the URL is located in result window (http://127.0.0.1:5000);
